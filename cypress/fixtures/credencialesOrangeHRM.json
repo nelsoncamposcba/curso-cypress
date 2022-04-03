@@ -1,0 +1,14 @@
+[
+    {
+        "user_condicion": "valido",
+        "user_name": "Admin",
+        "user_password": "admin123",
+        "message": "Welcome Paul"
+    },
+    {
+        "user_condicion": "invalido",
+        "user_name": "Admin",
+        "user_password": "admin",
+        "message": ""
+    }
+]
