@@ -4,7 +4,8 @@ class LoginPage {
             txt_userName : () => cy.get('#txtUsername'),
             txt_password: () => cy.get('#txtPassword'),
             btn_login: () => cy.get('#btnLogin'),
-            lbl_user: () => cy.get('#welcome')
+            lbl_user: () => cy.get('#welcome'),
+            lbl_message: () => cy.get('#spanMessage')
         }
         
         type_username(name){
