@@ -1,1 +1,8 @@
-{}
+{
+    "env": {
+        "url": "www.google.com"
+    },
+
+    "video": false,
+    "testFiles": "**/*.feature"
+}
